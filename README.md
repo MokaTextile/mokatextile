@@ -28,3 +28,7 @@ Sebagai anak muda, kemampuan untuk menciptakan sesuatu yang hanya milik Anda ada
 <a href="https://mokaprint.com/">MokaPrint</a>
 <a href="https://bikinkemeja.com/">BikinKemeja</a>
 <a href="https://lporterfabrics.com/">L. Porter Fabrics</a>
+<a href="https://www.bing.com/images/search?q=%2Bmokaprint.com&first=1">Bing</a>
+<a href="https://www.bing.com/images/search?q=%2Bbikinkemeja.com&first=1">Bing</a>
+<a href="https://www.bing.com/images/search?q=%2Bmokatextile.com&first=1">Bing</a>
+<a href="https://www.bing.com/images/search?q=%2Blporterfabrics.com&first=1">Bing</a>
